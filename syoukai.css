@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body{
+    background-color: coral
+}
+img{
+    width: 150px;
+}
+p,li{
+    color: yellow;
+}
+p{
+    font-size: 16px
+}
+
